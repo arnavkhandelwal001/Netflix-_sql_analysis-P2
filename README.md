@@ -358,7 +358,7 @@ GROUP BY 1;
 Netflix SQL Project
 │
 ├── netflix_titles.csv
-├── Solutions_Netflix.sql
+├── netflix_data_analysis.sql
 └── README.md
 ```
 
