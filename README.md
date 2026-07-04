@@ -1,4 +1,4 @@
-# 🎬 Netflix Movies & TV Shows Data Analysis using PostgreSQL
+P# 🎬 Netflix Movies & TV Shows Data Analysis using PostgreSQL
 
 ![Netflix Banner](https://github.com/arnavkhandelwal001/Netflix_sql_analysis_P2/blob/main/Netflix_logo.png)
 
@@ -11,6 +11,19 @@ The dataset contains information about Netflix titles, including movies and TV s
 Throughout this project, several PostgreSQL-specific functions such as `UNNEST()`, `STRING_TO_ARRAY()`, `RANK()`, `TO_DATE()`, `EXTRACT()`, and `CASE` have been used to derive meaningful business insights.
 
 ---
+
+## 📑 Table of Contents
+
+- Overview
+- Objectives
+- Dataset
+- Database Schema
+- Business Problems & Solutions
+- PostgreSQL Concepts Used
+- Project Structure
+- Key Learnings
+- Skills Demonstrated
+- Author
 
 # 🎯 Objectives
 
